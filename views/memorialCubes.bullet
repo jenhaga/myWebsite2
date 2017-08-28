@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Jens | Tiny Corner</title>
+    <link href="https://fonts.googleapis.com/css?family=Josefin+Sans:400,400i,600,600i,700,700i" rel="stylesheet">
+    <link rel="stylesheet" href="css/main.css">
+     <link rel="stylesheet" href="css/responsive.css">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  </head>
+  <body>
+    #HEADER#
+    <h3 style="text-align:center;" id="memorialCube-heading">Jasmin (2000 - 2015) and Frisky (1999 - 2017)</h3>
+    <div id="canvas-parent"></div>
+  <script language="javascript" type="text/javascript" src="js/memorial.js"></script>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/p5.js/0.5.7/p5.js"></script>
+   #FOOTER#
+  </body>
+</html>

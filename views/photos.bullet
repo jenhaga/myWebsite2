@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Jens | Tiny Corner</title>
+    <link href="https://fonts.googleapis.com/css?family=Josefin+Sans:400,400i,600,600i,700,700i" rel="stylesheet">
+    <link rel="stylesheet" href="css/main.css">
+     <link rel="stylesheet" href="css/responsive.css">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  </head>
+  <body>
+    #HEADER#
+    <div id="photo-wrapper">
+       <ul id="gallery">
+        <li title="Buddha Hand" class="sizing1">
+          <a href="img/buddhahand.jpg">
+            <img src="img/buddhahand.jpg" alt="photo of Buddha's Hand Fruit">
+            <p>Strange Produce #1: Buddha Hand.</p>
+          </a>
+        </li>
+        <li title="Conjoined Mushrooms">
+          <a href="img/conjoinedmushrooms.jpg">
+            <img src="img/conjoinedmushrooms.jpg" alt="photo of attached mushrooms">
+            <p>Strange Produce #2: Conjoined mushrooms.</p>
+          </a>
+        </li>
+        <li title="Conjoined Grapes" class="sizing2">
+          <a href="img/conjoinedgrapes.jpg">
+            <img src="img/conjoinedgrapes.jpg" alt="photo of attached grapes">
+            <p>Strange Produce #3: Conjoined grapes.</p>
+          </a>
+        </li>
+         <li title="Catio #1" class="sizing2">
+          <a href="img/catenclosure4.jpg">
+            <img src="img/catenclosure4.jpg" alt="photo of two cats relaxing">
+            <p>Catio #1: Bullet and Jasmin looking relaxed.</p>
+          </a>
+        </li>
+        <li title="Catio #2" class="sizing1">
+          <a href="img/catenclosure5.jpg">
+            <img src="img/catenclosure5.jpg" alt="photo of one cat in enclosure">
+            <p>Catio #2: Bullet on the lookout.</p>
+          </a>
+        </li>
+         <li title="Catio #3" class="sizing1">
+          <a href="img/catenclosure1.jpg">
+            <img src="img/catenclosure1.jpg" alt="photo of one cat in enclosure">
+            <p>Catio #3: Bullet barely visible.</p>
+          </a>
+        </li>
+         <li title ="Me and Horse">
+          <a href="img/farmsanctuary5.jpg">
+            <img src="img/farmsanctuary5.jpg" alt="photo of Jen and a horse">
+            <p>Farm Sanctuary #1: Me and a horse.</p>
+          </a>
+        </li>
+        <li title ="Me and Turkeys">
+          <a href="img/farmsanctuary7.jpg">
+            <img src="img/farmsanctuary7.jpg" alt="photo of Jen and some turkeys">
+            <p>Farm Sanctuary #2: Me and the turkeys.</p>
+          </a>
+        </li>
+         <li title ="Me and Goat">
+          <a href="img/farmsanctuary8.jpg">
+            <img src="img/farmsanctuary8.jpg" alt="">
+            <p>Farm Sanctuary #3: Me and a goat.</p>
+          </a>
+        </li>
+         <li title ="Me and Cows">
+          <a href="img/farmsanctuary6.jpg">
+            <img src="img/farmsanctuary6.jpg" alt="photo of Jen and some cows">
+            <p>Farm Sanctuary #4: Me and the cows.</p>
+          </a>
+        </li>
+         <li title ="Me and Pig">
+          <a href="img/farmsanctuary4.jpg">
+            <img src="img/farmsanctuary4.jpg" alt="photo of Jen and a pig">
+            <p>Farm Sanctuary #5: Me and a pig.</p>
+          </a>
+        </li>
+        </ul>
+    </div>
+     #FOOTER#
+    <script src="js/main.js"></script>
+  </body>
+</html>

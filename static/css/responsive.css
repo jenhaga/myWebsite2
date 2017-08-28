@@ -1,0 +1,244 @@
+
+* {
+  box-sizing: border-box;
+}
+
+@media screen and (min-width: 420px) {
+
+  #home-photo-wrap {
+    display: inline-block;
+    text-align: center;
+    max-width: 100%;
+    max-height: 100%
+    margin: 0;
+    padding: 0;
+  }
+
+  .home-page-photo {
+    float: left
+    margin: 0px, 10px, 10px, 10px;
+  }
+
+  .quotes {
+    max-width: 50%;
+    float: right;
+    margin-left: 10px;
+    vertical-align: top;
+  }
+
+  #photo-wrapper {
+    margin-left: 30px;
+  }
+
+  #gallery li {
+    float:left;
+    width: 40%;
+    margin-top: 20px
+  }
+
+  .sizing1 {
+    height: 130px;
+    width: 150px;
+  }
+}
+
+@media screen and (min-width: 765px) {
+
+  h1 {
+    font-size: 35px;
+  }
+
+  h2 {
+    font-size: 20px;
+  }
+
+  footer {
+    font-size: 0.75em;
+  }
+
+  .social-icon {
+    width: 35px;
+    height: 35px;
+    margin: 5px;
+  }
+
+  .dropbtn {
+    width: 80px;
+    font-size: 12px;
+    margin-top: 15px;
+    margin-left: -20px;
+    padding: 8px;
+     }
+
+  #home-photo-wrap {
+    height: 40%;
+    width: 40%;
+    float: left;
+    margin: 0px auto;
+  }
+
+  .home-page-photo {
+    margin-top: 20px;
+    margin-right: 0px;
+    margin-left: 20px;
+  }
+
+  .quotes {
+    display: inline;
+    float: right;
+    font-size: 14px;
+    margin-top: 10px;
+    margin-left: 2px;
+    padding-right: 12px;
+    text-align: left;
+  }
+
+/* Where is my photo wrapper?*/
+  #photo-wrapper {
+    border: 2px, solid, tomato;
+  }
+
+  #gallery li {
+    width: 28%;
+  }
+
+  .sizing1 {
+    height: 160px;
+  }
+
+  .sizing2 {
+    height: 160px;
+  }
+
+  .search {
+    width: 35%;
+    font-size: 16px;
+  }
+
+  #rPageBackground {
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  table {
+    width: 80%;
+    margin: 50px auto;
+  }
+
+  #playListHeader {
+    font-size: 16px;
+    text-align: center;
+    color: grey;
+    padding: 15px;
+  }
+
+  iframe {
+    width: 520px;
+    height: 280px;
+  }
+}
+
+@media screen and (min-width: 1000px) {
+
+  h1 {
+    font-size: 35px;
+  }
+
+  h2 {
+    font-size: 20px;
+  }
+
+  #home-photo-wrap {
+    height: 35%;
+    width: 35%;
+    margin-right: 0px;
+  }
+
+  .home-page-photo {
+    margin-left: 50px;
+  }
+
+  .quotes {
+    margin-top: 17px;
+    font-size: 18px;
+    padding-right: 20px;
+  }
+
+  .sizing1 {
+    height: 190px;
+  }
+
+  .sizing2 {
+    height: 190px;
+  }
+}
+
+@media screen and (min-width: 1070px){
+
+  .sizing1 {
+    height: 220px;
+  }
+
+  .sizing2 {
+    height: 220px;
+  }
+
+  #memorialCube-heading {
+    font-size: 20px;
+  }
+}
+
+@media screen and (min-width: 1300px) {
+
+  header {
+    height: 150px;
+    margin: 0 0 20px 0;
+    padding: 5px 0 0 30px;
+    width: 100%;
+  }
+
+  #logo {
+    margin-top: 17px;
+  }
+
+  h1 {
+    font-size: 45px;
+    margin: 15px 0;
+  }
+
+  h2 {
+    font-size: 30px;
+    margin: -5px 0 0;
+  }
+
+  .dropbtn {
+    width: 110px;
+    font-size: 15px;
+    margin-top: 37px;
+    margin-left: -68px;
+    margin-right: 20px;
+    padding: 11px;
+  }
+
+  .home-page-photo {
+    margin-top: 28px;
+  }
+
+  .quotes {
+    font-size: 25px;
+    margin-top: 15px;
+    padding-right: 30px;
+  }
+
+#photo-wrapper {
+  max-width: 1450px;
+}
+
+  .sizing1 {
+    height: 260px;
+  }
+
+  .sizing2 {
+    height: 260px;
+  }
+}

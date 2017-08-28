@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Jens | Tiny Corner</title>
+    <link href="https://fonts.googleapis.com/css?family=Josefin+Sans:400,400i,600,600i,700,700i" rel="stylesheet">
+    <link rel="stylesheet" href="css/main.css">
+     <link rel="stylesheet" href="css/responsive.css">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  </head>
+  <body>
+    #HEADER#
+    <div id="rPageBackground">
+       <div class="search search-table">Search the table</div>
+       <div class="tableWrap">
+      <table>
+        <thead>
+           <tr>
+             <th scope="col">Guilty Pleasures</th>
+             <th scope="col">Healthyish Sweets</th>
+             <th scope="col">Savory Favorites</th>
+           </tr>
+        </thead>
+        <tbody>
+           <tr>
+             <td><a href="http://www.godairyfree.org/news/nutrition-headlines/the-best-holiday-fudge-ever-and-it-just-happens-to-be-vegan" target="_blank">Delicious Fudge</a></td>
+             <td>Coming Soon</td>
+             <td><a href="http://detoxinista.com/2013/04/creamy-coleslaw-dairy-free/" target="_blank">Creamy Coleslaw</a></td>
+           </tr>
+             <td><a href="http://www.minimalistbaker.com/?s=one+bowl+chocolate+cake" target="_blank">Basic Chocolate Cake</a></td>
+             <td>Coming Soon</td>
+             <td><a href="http://itdoesnttastelikechicken.com/2014/08/10/tofu-scramble-breakfast-vegan-champions/" target="_blank">Tofu Scramble</a></td>
+           <tr>
+             <td><a href="http://lovingitvegan.com/vegan-vanilla-cake/" target="_blank">Basic Vanilla Cake</a></td>
+             <td colspan="2">Coming Soon --------</td>
+           </tr>
+           <tr>
+             <td><a href="http://www.vegkitchen.com/recipes/cranberry-upside-down-cake/" target="_blank">Cranberry Upside Down Cake</a></td>
+             <td colspan="2">Coming Soon --------</td>
+           </tr>
+           <tr></tr>
+           <tr></tr>
+           <tr></tr>
+        </tbody>
+      </table>
+    </div>
+      <footer id="rPageFooter">
+         <a href="http://facebook.com"><img src="img/facebook-wrap.jpg" alt="Facebook Logo" class="social-icon rPageIcon"></a>
+         <script src="https://apis.google.com/js/platform.js" async defer></script>
+         <div id="placeholder-div2"></div>
+        <p>&copy; 2017 Jasmin Ha.</p>
+        </footer>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Jens | Tiny Corner</title>
+    <link href="https://fonts.googleapis.com/css?family=Josefin+Sans:400,400i,600,600i,700,700i" rel="stylesheet">
+    <link rel="stylesheet" href="css/main.css">
+     <link rel="stylesheet" href="css/responsive.css">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  </head>
+  <body>
+    #HEADER#
+    <div id="wrapper">
+    	<div id="home-photo-wrap">
+      	  <a href="https://www.google.com/searchh?q=google+images+sidewalk+fossils&espv=2&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi30Jzg3rHTAhUQ1GMKHYxiCl0Q_AUIBigB&biw=1164&bih=596#tbm=isch&q=sidewalk+fossils" target="_blank">
+         <img src="img/csidewalkfossil1.jpg" alt="Sidewalk Fossil1 Photo" class="home-page-photo"></a>
+        </div>
+        <div class="quotes">
+            <p>There are no great people, only great challenges that ordinary people are forced by circumstances to meet.<br>- William F. Halsey
+            </p>
+            <p>The greatness of a nation and its moral progress can be judged by the way its animals are treated.<br>
+- Mahatma Gandhi
+            </p>
+            <p>To admit that you were wrong is to declare that you are wiser now than you were before.<br>- Unknown
+            </p>
+            <p>Good ideas are not adopted automatically; they must be driven into practice with courageous patience.<br>- Admiral Hyman Richover
+            </p>
+            <p>If you are neutral in situations of injustice, you have chosen the side of the oppressor.<br>- Desmond Tutu
+            </p>
+            <p>The person who loses their conscience has nothing left worth keeping.<br>- Izaak Walton
+            </p>
+          </div>
+    #FOOTER#
+    <script src="js/main.js"></script>
+    <script>
+    var person = prompt("Please enter your full name", "Harry Potter");
+    if (person == "Catherine Liberty") {
+        document.getElementById("greeting").innerHTML =
+        "Hello Catherine. Please click on the stone and scroll down.";
+    } else {
+    document.getElementById("greeting").innerHTML =
+    "Hello," + " " + person + "." + " " + "Thanks for visiting!";
+    }
+   </script>
+ </body>
+</html>

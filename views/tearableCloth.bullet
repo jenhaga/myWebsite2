@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Jens | Tiny Corner</title>
+    <link href="https://fonts.googleapis.com/css?family=Josefin+Sans:400,400i,600,600i,700,700i" rel="stylesheet">
+    <link rel="stylesheet" href="css/main.css">
+     <link rel="stylesheet" href="css/responsive.css">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  </head>
+  <body>
+    #HEADER#
+       <div id="cloth-wrapper">
+        <h3 style="text-align:center;" class="soCool-heading">Tearable Cloth by Adam Brooks:</h3>
+         <h4 style="text-align:center;" class="soCool-heading">(Drag with your mouse, right click to slice)</h4>
+       	     <canvas id="canvas"></canvas>
+       </div>
+   <script language="javascript" type="text/javascript"src="js/cloth.js"></script>
+    #FOOTER#
+   </body>
+</html>

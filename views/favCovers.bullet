@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Jen's | Tiny Corner</title>
+    <link href="https://fonts.googleapis.com/css?family=Josefin+Sans:400,400i,600,600i,700,700i" rel="stylesheet">
+    <link rel="stylesheet" href="css/main.css">
+     <link rel="stylesheet" href="css/responsive.css">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  </head>
+  <body>
+    #HEADER#
+    <div id="playlistDiv">
+      <h3 id="playListHeader">Here's a YouTube playlist of my favorite covers (click in the upper left corner to see list):</h3>
+      <iframe width="260" height="140" src="https://www.youtube.com/embed/videoseries?list=PLrM8ncRN2Xz8ZrU5lbhNn1DY17VSOuFRk" frameborder="0" allowfullscreen></iframe>
+    </div>
+     #FOOTER#
+        <script src="js/main.js"></script>
+  </body>
+</html>

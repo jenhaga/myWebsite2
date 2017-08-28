@@ -1,0 +1,18 @@
+<header>
+  <a href="index.html" id="logo">
+    <h1>&#10056; Jen's</h1>
+    <h2>Tiny Corner of Cyberspace</h2>
+  </a>
+  <div class="dropdown" style="float:right;">
+    <button class="dropbtn">Website Menu</button>
+    <div class="dropdown-content">
+      <a href="/" class="selected">Home</a>
+      <a href="photos">Photos</a>
+      <a href="recipes">Recipes</a>
+      <a href="favCovers">Favorite Covers</a>
+      <a href="tearableCloth">Tearable Cloth</a>
+      <a href="chromeAbb">Chromatic Abberation</a>
+      <a href="memorialCubes">Memorial Cubes</a>
+    </div>
+  </div>
+</header>
